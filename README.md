@@ -1,2 +1,3 @@
 # hello-world
-new  fish in Github
+hi, guys,
+im a github beginner. interested in python programming
